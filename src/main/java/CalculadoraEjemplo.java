@@ -2,7 +2,7 @@
  * La clase CalculadoraEjemplo realiza operaciones matemáticas básicas: suma, resta,
  * multiplicación y división entre dos operandos.
  * 
- * @author Tu Nombre
+ * @author Fernando
  * @version 1.0
  * @since 2024-10-30
  */
@@ -73,7 +73,7 @@ public class CalculadoraEjemplo {
      */
     public static void main(String[] args) {
         CalculadoraEjemplo calculadora = new CalculadoraEjemplo(10, 5);
-
+System.out.println("CAMBIO PARA GITHUB ");
         System.out.println("Suma: " + calculadora.sumar());
         System.out.println("Resta: " + calculadora.restar());
         System.out.println("Multiplicación: " + calculadora.multiplicar());
