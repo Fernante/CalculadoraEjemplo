@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/corre/Documents/NetBeansProjects/CalculadoraProyecto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/corre/Documents/NetBeansProjects/CalculadoraProyecto/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculadoraProyecto 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CalculadoraProyecto 1.0-SNAPSHOT API'
+'C:/Users/corre/Documents/NetBeansProjects/CalculadoraProyecto/src/main/java/CalculadoraEjemplo.java'
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\src\main\java\CalculadoraEjemplo.java = 1730296440525
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\src\main\java = 1730296422509
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\allclasses-index.html = 1730296761501
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\allpackages-index.html = 1730296761503
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\CalculadoraEjemplo.html = 1730296761462
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\element-list = 1730296761463
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\help-doc.html = 1730296761522
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\index-all.html = 1730296761515
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\index.html = 1730296761518
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\member-search-index.js = 1730296761507
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\module-search-index.js = 1730296761504
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\overview-tree.html = 1730296761494
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\package-search-index.js = 1730296761505
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\package-summary.html = 1730296761478
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\package-tree.html = 1730296761482
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\package-use.html = 1730296761491
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\search.html = 1730296761516
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\tag-search-index.js = 1730296761508
+C:\Users\corre\Documents\NetBeansProjects\CalculadoraProyecto\target\reports\apidocs\type-search-index.js = 1730296761506
